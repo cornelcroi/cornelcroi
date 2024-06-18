@@ -16,7 +16,7 @@ I specialize in Serverless, Edge Services, Media Streaming, and GenAI, with a se
 
 - **Projects:**
   - [CloudFront Hosting Toolkit CLI](https://www.npmjs.com/package/@aws/cloudfront-hosting-toolkit): CloudFront Hosting Toolkit CLI, an open source command line tool to help developers deploy fast and secure frontends in the cloud.
-  - [CloudFront Hosting Toolkit](https://github.com/awslabs/cloudfront-hosting-toolkit): Offers the convenience of a managed frontend hosting service while retaining full control over the hosting and deployment infrastructure to make it your own.
+  - [CloudFront Hosting Toolkit](https://github.com/awslabs/cloudfront-hosting-toolkit): The convenience of a managed frontend hosting service while retaining full control over the hosting and deployment infrastructure to make it your own.
   - [Food analyzer app](https://github.com/aws-samples/serverless-genai-food-analyzer-app): Personalized GenAI nutritional webapp for your shopping and cooking recipes.
   - [Build a complete livestreaming workflow using automated deployments](https://github.com/aws-samples/cicd-mediaservices-workshop): how to deploy video workflows on AWS Elemental Media Services with a Continuous Integration/Continuous Delivery (CI/CD).
   - [A/B testing at the edge for e-commerce](https://github.com/aws-samples/ab-testing-at-edge): implement an A/B testing solution for an e-commerce website.
