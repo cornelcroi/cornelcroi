@@ -22,6 +22,7 @@ I specialize in Serverless, Edge Services, Media Streaming, and GenAI, with a se
   - [A/B testing at the edge for e-commerce](https://github.com/aws-samples/ab-testing-at-edge): implement an A/B testing solution for an e-commerce website.
   - [Secure Media Delivery at the Edge on AWS](https://github.com/aws-solutions/secure-media-delivery-at-the-edge-on-aws): The Secure Media Delivery at the Edge solution protects your premium video content delivered through Amazon CloudFront from unauthorized access.
   - [Photo-sharing website](https://github.com/cornelcroi/photo-sharing-website): Static pre-rendered photo-sharing website to share publicly your pictures without needing to run or maintain servers.
+  - [Less than a cup of coffee per month photo sharing website](https://manbehindlens.com/how_is_made.html)
 
 
 - **Workshops:**
