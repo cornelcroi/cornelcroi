@@ -23,6 +23,8 @@ I believe in a serverless-first approach, always looking for ways to maximize ef
 
 | Date | Title | Platform |
 |------|-------|----------|
+| 29 AUG 2024 | [From 'Bonjour' to 'Boarding Pass': Multilingual AI Chatbot for Flight Reservations](https://community.aws/content/2l4HvcWk7sbm6F4hiJqnXXNHYKj/deploy-your-static-frontend-faster-than-brewing-coffee-using-cloudfront-hosting-toolkit)  | Blog |
+| 26 AUG 2024 | [Deploy your static frontend faster than brewing coffee using CloudFront Hosting Toolkit](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-hosting-toolkit/) | Blog |
 | 04 JUN 2024 | [Introducing CloudFront Hosting Toolkit](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-hosting-toolkit/) | AWS Blog |
 | 07 FEB 2023 | [Building ad-hoc consumers for event-driven architectures](https://aws.amazon.com/blogs/compute/building-ad-hoc-consumers-for-event-driven-architectures/) | AWS Blog |
 | 10 JAN 2023 | [How DAZN uses AWS Step Functions to orchestrate event-based video streaming at scale](https://aws.amazon.com/blogs/media/how-dazn-uses-aws-step-functions-to-orchestrate-event-based-video-streaming-at-scale/) | AWS Blog |
