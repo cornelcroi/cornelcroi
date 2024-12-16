@@ -20,10 +20,6 @@ I'm passionate about leveraging technology to solve real-world problems. As both
 I believe in a serverless-first approach, always looking for ways to maximize efficiency, scalability, and cost-effectiveness in the solutions I design and build.
 
 
-To include this article in your README, here’s an updated **Latest Publications** section with the details of your co-authored piece:
-
----
-
 ## 📚 Latest Publications
 
 | Date         | Title                                                                                                           | Platform |
