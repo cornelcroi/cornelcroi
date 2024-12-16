@@ -9,7 +9,7 @@
 👨‍💻 Architect & Builder
 ```
 
-I'm passionate about leveraging cutting-edge AWS technologies to solve real-world problems. As both an architect and a hands-on builder, I design innovative solutions and bring them to life through code. My role involves working closely with customers to conceptualize, design, and implement exciting prototypes that showcase the power and flexibility of AWS services.
+I'm passionate about leveraging technology to solve real-world problems. As both an architect and a hands-on builder, I design innovative solutions and bring them to life through code. My role involves working closely with customers to conceptualize, design, and implement exciting prototypes that showcase the power and flexibility of AWS services.
 
 ### 💡 Key Focus Areas:
 - Serverless architectures
