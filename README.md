@@ -19,77 +19,74 @@ I'm passionate about leveraging technology to solve real-world problems. As both
 
 I believe in a serverless-first approach, always looking for ways to maximize efficiency, scalability, and cost-effectiveness in the solutions I design and build.
 
+
+To include this article in your README, here’s an updated **Latest Publications** section with the details of your co-authored piece:
+
+---
+
 ## 📚 Latest Publications
 
-| Date | Title | Platform |
-|------|-------|----------|
-| 12 SEPT 2024 | [Beyond Auto-Replies: Building an AI-Powered E-commerce Support system](https://community.aws/content/2l4HvcWk7sbm6F4hiJqnXXNHYKj/deploy-your-static-frontend-faster-than-brewing-coffee-using-cloudfront-hosting-toolkit](https://community.aws/content/2lq6cYYwTYGc7S3Zmz28xZoQNQj/beyond-auto-replies-building-an-ai-powered-e-commerce-support-system))  | Blog |
-| 29 AUG 2024 | [From 'Bonjour' to 'Boarding Pass': Multilingual AI Chatbot for Flight Reservations](https://community.aws/content/2l4HvcWk7sbm6F4hiJqnXXNHYKj/deploy-your-static-frontend-faster-than-brewing-coffee-using-cloudfront-hosting-toolkit)  | Blog |
-| 26 AUG 2024 | [Deploy your static frontend faster than brewing coffee using CloudFront Hosting Toolkit](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-hosting-toolkit/) | Blog |
-| 04 JUN 2024 | [Introducing CloudFront Hosting Toolkit](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-hosting-toolkit/) | AWS Blog |
-| 07 FEB 2023 | [Building ad-hoc consumers for event-driven architectures](https://aws.amazon.com/blogs/compute/building-ad-hoc-consumers-for-event-driven-architectures/) | AWS Blog |
-| 10 JAN 2023 | [How DAZN uses AWS Step Functions to orchestrate event-based video streaming at scale](https://aws.amazon.com/blogs/media/how-dazn-uses-aws-step-functions-to-orchestrate-event-based-video-streaming-at-scale/) | AWS Blog |
-| 23 SEP 2022 | [Secure media delivery at the edge on AWS](https://aws.amazon.com/blogs/media/secure-media-delivery-at-the-edge-on-amazon-web-services/) | AWS Blog |
+| Date         | Title                                                                                                           | Platform |
+|--------------|-----------------------------------------------------------------------------------------------------------------|----------|
+| 28 NOV 2024  | [Unlock Bedrock InvokeInlineAgent API’s Hidden Potential with Multi-Agent Orchestrator](https://community.aws/content/2pTsHrYPqvAbJBl9ht1XxPOSPjR/unlock-bedrock-invokeinlineagent-api-s-hidden-potential-with-multi-agent-orchestrator) | Blog |
+| 12 SEPT 2024 | [Beyond Auto-Replies: Building an AI-Powered E-commerce Support System](https://community.aws/content/2lq6cYYwTYGc7S3Zmz28xZoQNQj/beyond-auto-replies-building-an-ai-powered-e-commerce-support-system) | Blog |
+| 29 AUG 2024  | [From 'Bonjour' to 'Boarding Pass': Multilingual AI Chatbot for Flight Reservations](https://community.aws/content/2l4HvcWk7sbm6F4hiJqnXXNHYKj/deploy-your-static-frontend-faster-than-brewing-coffee-using-cloudfront-hosting-toolkit) | Blog |
+| 26 AUG 2024  | [Deploy Your Static Frontend Faster than Brewing Coffee Using CloudFront Hosting Toolkit](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-hosting-toolkit/) | Blog |
+| 04 JUN 2024  | [Introducing CloudFront Hosting Toolkit](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-hosting-toolkit/) | AWS Blog |
+| 07 FEB 2023  | [Building Ad-hoc Consumers for Event-Driven Architectures](https://aws.amazon.com/blogs/compute/building-ad-hoc-consumers-for-event-driven-architectures/) | AWS Blog |
+| 10 JAN 2023  | [How DAZN Uses AWS Step Functions to Orchestrate Event-Based Video Streaming at Scale](https://aws.amazon.com/blogs/media/how-dazn-uses-aws-step-functions-to-orchestrate-event-based-video-streaming-at-scale/) | AWS Blog |
+| 23 SEP 2022  | [Secure Media Delivery at the Edge on AWS](https://aws.amazon.com/blogs/media/secure-media-delivery-at-the-edge-on-amazon-web-services/) | AWS Blog |
+
 
 ## 🛠️ Featured Projects
 
-<details>
-<summary>🤖 Multi Agent Orchestrator Framework</summary>
+### 🤖 Multi-Agent Orchestrator Framework  
+A flexible and powerful framework for managing multiple AI agents and handling complex conversations.  
+- **Role:** Co-author  
+- **Highlights:** The **most viral open-source project from AWS in 2024**, with exceptional growth and adoption. It has become the **reference framework for AI agents on AWS**, enabling seamless orchestration of AI and human agents for scalable, intelligent customer support.  
+- **Links:** [GitHub](https://github.com/awslabs/multi-agent-orchestrator) | [NPM](https://www.npmjs.com/package/multi-agent-orchestrator) | [PyPI](https://pypi.org/project/multi-agent-orchestrator/)  
 
-Flexible and powerful framework for managing multiple AI agents and handling complex conversations.
-- 📂 [GitHub](https://github.com/awslabs/multi-agent-orchestrator)
-- 📦 [NPM](https://www.npmjs.com/package/multi-agent-orchestrator)
-- 🐍 [PyPI](https://pypi.org/project/multi-agent-orchestrator/)
-</details>
+---
 
-<details>
-<summary>🚀 CloudFront Hosting Toolkit</summary>
+### 🚀 CloudFront Hosting Toolkit  
+An open-source command-line tool to help developers deploy fast and secure frontends in the cloud.  
+- **Role:** Main maintainer  
+- **Highlights:** Simplifies frontend deployment using Amazon CloudFront, ensuring scalability, speed, and security.  
+- **Links:** [GitHub](https://github.com/awslabs/cloudfront-hosting-toolkit) | [NPM](https://www.npmjs.com/package/@aws/cloudfront-hosting-toolkit)  
 
-Open source command line tool to help developers deploy fast and secure frontends in the cloud.
-- 📂 [GitHub](https://github.com/awslabs/cloudfront-hosting-toolkit)
-- 📦 [NPM](https://www.npmjs.com/package/@aws/cloudfront-hosting-toolkit)
-</details>
+---
 
-<details>
-<summary>🍽️ Food Analyzer App</summary>
+### 📸 Photo-sharing Website  
+A static, pre-rendered photo-sharing website to share pictures publicly in high resolution while minimizing costs.  
+- **Role:** Creator/Personal project
+- **Highlights:** Designed to host photos efficiently with a serverless approach for less than the price of a coffee per month.  
+- **Links:** [Project Page](https://manbehindlens.com/how_is_made.html) | [GitHub](https://github.com/cornelcroi/photo-sharing-website)  
 
-Personalized GenAI nutritional webapp for your shopping and cooking recipes.
-- 📂 [GitHub](https://github.com/aws-samples/serverless-genai-food-analyzer-app)
-</details>
+---
 
-<details>
-<summary>📺 Complete Livestreaming Workflow</summary>
+### 🍽️ Food Analyzer App  
+A personalized GenAI-based nutritional web app for analyzing shopping and cooking recipes.  
+- **Role:** Co-Creator  
+- **Highlights:** Combines serverless architecture with generative AI to provide personalized insights for users.  
+- **Links:** [GitHub](https://github.com/aws-samples/serverless-genai-food-analyzer-app)  
 
-Learn how to deploy video workflows on AWS Elemental Media Services with CI/CD.
-- 📂 [GitHub](https://github.com/aws-samples/cicd-mediaservices-workshop)
-</details>
+---
 
-<details>
-<summary>🔀 A/B Testing at the Edge for E-commerce</summary>
+### 🔀 A/B Testing at the Edge for E-commerce  
+A solution for implementing A/B testing directly at the edge for e-commerce websites.  
+- **Role:** Owner & Maintainer  
+- **Highlights:** Optimizes user experiences by delivering personalized content at scale using Amazon CloudFront.  
+- **Links:** [GitHub](https://github.com/aws-samples/ab-testing-at-edge)  
 
-Implement an A/B testing solution for an e-commerce website.
-- 📂 [GitHub](https://github.com/aws-samples/ab-testing-at-edge)
-</details>
+---
 
-<details>
-<summary>🔒 Secure Media Delivery at the Edge on AWS</summary>
+### 🔒 Secure Media Delivery at the Edge  
+A comprehensive solution for protecting premium video content delivered through Amazon CloudFront from unauthorized access.  
+- **Role:** Creator (sole coder within a team)  
+- **Highlights:** I designed and implemented the solution, which is now maintained by the **AWS Solutions team** to ensure ongoing improvements and support.  
+- **Links:** [GitHub](https://github.com/aws-solutions/secure-media-delivery-at-the-edge-on-aws)  
 
-Protect your premium video content delivered through Amazon CloudFront from unauthorized access.
-- 📂 [GitHub](https://github.com/aws-solutions/secure-media-delivery-at-the-edge-on-aws)
-</details>
 
-<details>
-<summary>📸 Photo-sharing Website</summary>
-
-Static pre-rendered photo-sharing website to share your pictures publicly without servers.
-- 📂 [GitHub](https://github.com/cornelcroi/photo-sharing-website)
-</details>
-
-<details>
-<summary>☕ Less than a Cup of Coffee per Month Photo Sharing Website</summary>
-
-- 🌐 [Project Page](https://manbehindlens.com/how_is_made.html)
-</details>
 
 ## 🎓 Workshops
 
