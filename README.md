@@ -95,7 +95,5 @@ A comprehensive solution for protecting premium video content delivered through 
 <p align="center">
   <i>Let's connect and chat!</i>
   <br>
-  <a href="https://twitter.com/cornel_croi" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/corneliucroitoru" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-
 </p>
