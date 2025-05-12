@@ -36,11 +36,11 @@ I believe in a serverless-first approach, always looking for ways to maximize ef
 
 ## 🛠️ Featured Projects
 
-### 🤖 Multi-Agent Orchestrator Framework  
+### 🤖 Agent Squad (formerly Multi-Agent Orchestrator) Framework  
 A flexible and powerful framework for managing multiple AI agents and handling complex conversations.  
 - **Role:** Co-author  
 - **Highlights:** The **most viral open-source project from AWS in 2024**, with exceptional growth and adoption. It has become the **reference framework for AI agents on AWS**, enabling seamless orchestration of AI and human agents for scalable, intelligent customer support.  
-- **Links:** [GitHub](https://github.com/awslabs/multi-agent-orchestrator) | [NPM](https://www.npmjs.com/package/multi-agent-orchestrator) | [PyPI](https://pypi.org/project/multi-agent-orchestrator/)  
+- **Links:** [GitHub](https://github.com/awslabs/agent-squad) | [NPM](https://www.npmjs.com/package/agent-squad) | [PyPI](https://pypi.org/project/agent-squad/)  
 
 ---
 
