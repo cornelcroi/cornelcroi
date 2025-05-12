@@ -87,8 +87,7 @@ A comprehensive solution for protecting premium video content delivered through 
 ## 🎓 Workshops
 
 1. 🔬 [A/B testing at the edge](https://catalog.us-east-1.prod.workshops.aws/workshops/e507820e-bd46-421f-b417-107cd608a3b2/en-US)
-2. 🎥 [Build a complete livestreaming workflow using automated deployments](https://catalog.us-east-1.prod.workshops.aws/workshops/b520360a-46d4-470e-a34f-c6cf4a73f674/en-US)
-3. 💰 [Scaling cost effective architectures](https://catalog.us-east-1.prod.workshops.aws/workshops/f238037c-8f0b-446e-9c15-ebcc4908901a/en-US)
+2. 💰 [Scaling cost effective architectures](https://catalog.us-east-1.prod.workshops.aws/workshops/f238037c-8f0b-446e-9c15-ebcc4908901a/en-US)
 
 ---
 
