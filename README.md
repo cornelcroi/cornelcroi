@@ -2,7 +2,7 @@
 
 ```
 📍 Paris, France
-💼 Senior Prototyping Architect @ AWS EMEA Prototyping Team
+💼 Gen Ai Solutions Architect @ Betclic.fr
 🛠️ Serverless | Edge Services | Media Streaming | GenAI
 🎯 Serverless-first approach
 🔭 Collaborating with customers to create innovative prototypes on AWS
