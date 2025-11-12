@@ -24,6 +24,7 @@ I believe in a serverless-first approach, always looking for ways to maximize ef
 
 | Date         | Title                                                                                                           | Platform |
 |--------------|-----------------------------------------------------------------------------------------------------------------|----------|
+| 12 NOV 2025  | [Context-Lens: A Serverless, Open-Source MCP Server for AI Document Understanding](https://medium.com/@cornelcroi/how-i-built-context-lens-a-serverless-open-source-mcp-server-for-ai-document-understanding-ca375557a8fb) | Blog |
 | 28 NOV 2024  | [Unlock Bedrock InvokeInlineAgent API’s Hidden Potential with Multi-Agent Orchestrator](https://community.aws/content/2pTsHrYPqvAbJBl9ht1XxPOSPjR/unlock-bedrock-invokeinlineagent-api-s-hidden-potential-with-multi-agent-orchestrator) | Blog |
 | 12 SEPT 2024 | [Beyond Auto-Replies: Building an AI-Powered E-commerce Support System](https://community.aws/content/2lq6cYYwTYGc7S3Zmz28xZoQNQj/beyond-auto-replies-building-an-ai-powered-e-commerce-support-system) | Blog |
 | 29 AUG 2024  | [From 'Bonjour' to 'Boarding Pass': Multilingual AI Chatbot for Flight Reservations](https://community.aws/content/2lCi8jEKydhDm8eE8QFIQ5K23pF/from-bonjour-to-boarding-pass-multilingual-ai-chatbot-for-flight-reservations) | Blog |
@@ -35,6 +36,14 @@ I believe in a serverless-first approach, always looking for ways to maximize ef
 
 
 ## 🛠️ Featured Projects
+
+### 🤖 Context Lens 
+Semantic search knowledge base for MCP-enabled AI assistants.
+- **Role:** Author 
+- **Links:** [GitHub](https://github.com/cornelcroi/context-lens) 
+
+---
+
 
 ### 🤖 Agent Squad (formerly Multi-Agent Orchestrator) Framework  
 A flexible and powerful framework for managing multiple AI agents and handling complex conversations.  
