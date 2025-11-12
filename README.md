@@ -2,7 +2,7 @@
 
 ```
 📍 Paris, France
-💼 Gen Ai Solutions Architect @ Betclic.fr
+💼 Gen Ai Solutions Architect & Builder
 🛠️ Serverless | Edge Services | Media Streaming | GenAI
 🎯 Serverless-first approach
 🔭 Collaborating with customers to create innovative prototypes on AWS
