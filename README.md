@@ -1,23 +1,14 @@
 ## 🚀 About Me
 
-```
-📍 Paris, France
-💼 Gen Ai Solutions Architect & Builder
-🛠️ Serverless | Edge Services | Media Streaming | GenAI
-🎯 Serverless-first approach
-🔭 Collaborating with customers to create innovative prototypes on AWS
-👨‍💻 Architect & Builder
-```
+🎯 **Gen AI Solutions Architect at Betclic.** For the past few years, I've been fully focused on generative AI — building expertise, shipping solutions, and contributing to the ecosystem.
 
-I'm passionate about leveraging technology to solve real-world problems. As both an architect and a hands-on builder, I design innovative solutions and bring them to life through code. My role involves working closely with customers to conceptualize, design, and implement exciting prototypes that showcase the power and flexibility of AWS services.
+At AWS, I spent 4+ years working with customers to build Gen AI prototypes. At Betclic, I build internal prototypes with a single focus: **using generative AI to solve real problems, not gimmicks.**
 
-### 💡 Key Focus Areas:
-- Serverless architectures
-- Edge computing solutions
-- Media streaming optimizations
-- Generative AI applications
+🏗️ **Architect and builder.** I focus on the product, not the language — tech is a tool, not a blocker. I pick whatever gets the job done and ship solutions that actually work.
 
-I believe in a serverless-first approach, always looking for ways to maximize efficiency, scalability, and cost-effectiveness in the solutions I design and build.
+🚀 **Serverless first. MCP builder. Open source contributor.**
+
+✍️ Published on AWS Blog and community.aws. Still actively sharing what I learn.
 
 
 ## 📚 Latest Publications
@@ -37,19 +28,32 @@ I believe in a serverless-first approach, always looking for ways to maximize ef
 
 ## 🛠️ Featured Projects
 
-### 🤖 Context Lens 
-Semantic search knowledge base for MCP-enabled AI assistants.
-- **Role:** Author 
-- **Links:** [GitHub](https://github.com/cornelcroi/context-lens) 
+### 🤖 Agent Squad (formerly Multi-Agent Orchestrator)
+A flexible and powerful framework for managing multiple AI agents and handling complex conversations.
+- **Role:** Co-author
+- **Highlights:** #5 most popular in AWS Labs, **+7k stars**. The reference framework for AI agents on AWS.
+- **Links:** [GitHub](https://github.com/awslabs/agent-squad) | [NPM](https://www.npmjs.com/package/agent-squad) | [PyPI](https://pypi.org/project/agent-squad/)
 
 ---
 
+### 🤖 Context Lens
+MCP server for semantic search over local files and GitHub repos for AI assistants.
+- **Role:** Author
+- **Links:** [GitHub](https://github.com/cornelcroi/context-lens)
 
-### 🤖 Agent Squad (formerly Multi-Agent Orchestrator) Framework  
-A flexible and powerful framework for managing multiple AI agents and handling complex conversations.  
-- **Role:** Co-author  
-- **Highlights:** The **most viral open-source project from AWS in 2024**, with exceptional growth and adoption. It has become the **reference framework for AI agents on AWS**, enabling seamless orchestration of AI and human agents for scalable, intelligent customer support.  
-- **Links:** [GitHub](https://github.com/awslabs/agent-squad) | [NPM](https://www.npmjs.com/package/agent-squad) | [PyPI](https://pypi.org/project/agent-squad/)  
+---
+
+### 🤖 Ask James
+MCP server to get a second opinion from another LLM without leaving your assistant.
+- **Role:** Author
+- **Links:** [GitHub](https://github.com/cornelcroi/ask-james) | [PyPI](https://pypi.org/project/ask-james/)
+
+---
+
+### 📊 Data Lens
+MCP server to ask questions about spreadsheets in plain English. Excel, CSV, Parquet analysis powered by DuckDB.
+- **Role:** Author
+- **Links:** [GitHub](https://github.com/cornelcroi/data-lens) | [PyPI](https://pypi.org/project/data-lens/)  
 
 ---
 
