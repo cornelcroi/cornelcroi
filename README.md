@@ -6,6 +6,7 @@
 | 🧩 **[Context Lens](https://github.com/cornelcroi/context-lens)** | MCP server enabling **AI assistants to search local files and GitHub repositories** |
 | 📊 **[Data Lens](https://github.com/cornelcroi/data-lens)** | Ask questions about spreadsheets using **natural language and LLM reasoning** |
 | 🤖 **[Ask James](https://github.com/cornelcroi/ask-james)** | Tool for querying **multiple LLMs for second-opinion reasoning** |
+| 🌍 **[Street Lens](https://streetlensapp.com)** | AI-powered travel platform generating **audio guides from LLM pipelines** |
 
 ---
 
@@ -45,6 +46,18 @@ Links:
 GitHub: https://github.com/awslabs/agent-squad
 NPM: https://www.npmjs.com/package/agent-squad
 PyPI: https://pypi.org/project/agent-squad/
+
+---
+
+### 🌍 Street Lens
+
+AI-powered travel discovery platform generating audio guides for places around you.
+
+• GenAI pipeline transforming structured place data into narrative audio guides
+• Scalable AI-generated content architecture
+• In production: [streetlensapp.com](https://streetlensapp.com) | [App Store](https://apps.apple.com/app/id6756893250)
+
+Role: Co-Founder
 
 ---
 
