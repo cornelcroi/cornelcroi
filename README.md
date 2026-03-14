@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I build AI systems and developer tools around large language models.
+I build AI systems and developer tools powered by large language models.
 
 Staff GenAI Solutions Architect at Betclic and former AWS architect working on GenAI prototypes across EMEA.
 
@@ -34,7 +34,7 @@ Always building tools that make AI systems easier to design, test, and operate.
 
 ### 🤖 Agent Squad (7k⭐)
 
-Multi-agent orchestration framework for building complex AI systems.
+Multi-agent orchestration framework for building complex LLM-powered AI systems.
 
 • **7k+ stars – #5 most popular AWS Labs project**
 • Supports Python and TypeScript
@@ -43,9 +43,9 @@ Multi-agent orchestration framework for building complex AI systems.
 Role: Co-author
 
 Links:
-GitHub: https://github.com/awslabs/agent-squad
-NPM: https://www.npmjs.com/package/agent-squad
-PyPI: https://pypi.org/project/agent-squad/
+• [GitHub](https://github.com/awslabs/agent-squad)
+• [NPM](https://www.npmjs.com/package/agent-squad)
+• [PyPI](https://pypi.org/project/agent-squad/)
 
 ---
 
