@@ -1,3 +1,13 @@
+## ⭐ Project Highlights
+
+| Project | Description |
+|-------|-------------|
+| 🤖 **[Agent Squad](https://github.com/awslabs/agent-squad)** | Multi-agent orchestration framework for building complex AI systems (**7k⭐**) |
+| 🧩 **[Context Lens](https://github.com/cornelcroi/context-lens)** | MCP server enabling LLMs to search local files and GitHub repositories |
+| 📊 **[Data Lens](https://github.com/cornelcroi/data-lens)** | Ask questions about spreadsheets in natural language using DuckDB + LLMs |
+| 🤖 **[Ask James](https://github.com/cornelcroi/ask-james)** | MCP server to get a second opinion from another LLM |
+
+
 ## 🚀 About Me
 
 I build AI systems and developer tools around large language models.
@@ -8,25 +18,12 @@ My work focuses on:
 
 • multi-agent systems
 • LLM developer tooling
-• MCP servers and AI integrations
+• MCP servers for AI assistants
 • serverless AI architectures
-
-I enjoy building tools that make AI systems easier to design, test, and operate.
 
 Author or co-author of several open-source projects including **Agent Squad (7k⭐)**.
 
 Previously published on the AWS Blog and community.aws.
-
-
-## ✍️ Selected Publications
-
-| Date         | Title                                                                                                           | Platform |
-|--------------|-----------------------------------------------------------------------------------------------------------------|----------|
-| 12 NOV 2025  | [Context-Lens: A Serverless, Open-Source MCP Server for AI Document Understanding](https://medium.com/@cornelcroi/how-i-built-context-lens-a-serverless-open-source-mcp-server-for-ai-document-understanding-ca375557a8fb) | Blog |
-| 28 NOV 2024  | [Unlock Bedrock InvokeInlineAgent API's Hidden Potential with Multi-Agent Orchestrator](https://community.aws/content/2pTsHrYPqvAbJBl9ht1XxPOSPjR/unlock-bedrock-invokeinlineagent-api-s-hidden-potential-with-multi-agent-orchestrator) | Blog |
-| 12 SEPT 2024 | [Beyond Auto-Replies: Building an AI-Powered E-commerce Support System](https://community.aws/content/2lq6cYYwTYGc7S3Zmz28xZoQNQj/beyond-auto-replies-building-an-ai-powered-e-commerce-support-system) | Blog |
-| 04 JUN 2024  | [Introducing CloudFront Hosting Toolkit](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-hosting-toolkit/) | AWS Blog |
-| 10 JAN 2023  | [How DAZN Uses AWS Step Functions to Orchestrate Event-Based Video Streaming at Scale](https://aws.amazon.com/blogs/media/how-dazn-uses-aws-step-functions-to-orchestrate-event-based-video-streaming-at-scale/) | AWS Blog |
 
 
 ## 🤖 AI Systems & Tools
@@ -55,14 +52,14 @@ Tools enabling AI assistants to interact with real-world data.
 • **Context Lens** – semantic search over local files and GitHub repositories
   https://github.com/cornelcroi/context-lens
 
-• **Ask James** – get a second opinion from another LLM without leaving your assistant
+• **Ask James** – get a second opinion from another LLM inside your assistant
   https://github.com/cornelcroi/ask-james
 
 • **Data Lens** – query spreadsheets using natural language (Excel, CSV, Parquet) powered by DuckDB
   https://github.com/cornelcroi/data-lens
 
 
-## ☁️ Selected AWS Solutions
+## ☁️ Infrastructure & Systems
 
 ### 🚀 CloudFront Hosting Toolkit
 Open-source CLI to deploy fast and secure frontends using Amazon CloudFront.
@@ -91,10 +88,21 @@ Solution for protecting premium video content delivered through Amazon CloudFron
 - **Links:** [GitHub](https://github.com/aws-solutions/secure-media-delivery-at-the-edge-on-aws)
 
 
+## ✍️ Technical Writing
+
+| Date         | Title                                                                                                           | Platform |
+|--------------|-----------------------------------------------------------------------------------------------------------------|----------|
+| 12 NOV 2025  | [Context-Lens: A Serverless, Open-Source MCP Server for AI Document Understanding](https://medium.com/@cornelcroi/how-i-built-context-lens-a-serverless-open-source-mcp-server-for-ai-document-understanding-ca375557a8fb) | Blog |
+| 28 NOV 2024  | [Unlock Bedrock InvokeInlineAgent API's Hidden Potential with Multi-Agent Orchestrator](https://community.aws/content/2pTsHrYPqvAbJBl9ht1XxPOSPjR/unlock-bedrock-invokeinlineagent-api-s-hidden-potential-with-multi-agent-orchestrator) | Blog |
+| 12 SEPT 2024 | [Beyond Auto-Replies: Building an AI-Powered E-commerce Support System](https://community.aws/content/2lq6cYYwTYGc7S3Zmz28xZoQNQj/beyond-auto-replies-building-an-ai-powered-e-commerce-support-system) | Blog |
+| 04 JUN 2024  | [Introducing CloudFront Hosting Toolkit](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-hosting-toolkit/) | AWS Blog |
+| 10 JAN 2023  | [How DAZN Uses AWS Step Functions to Orchestrate Event-Based Video Streaming at Scale](https://aws.amazon.com/blogs/media/how-dazn-uses-aws-step-functions-to-orchestrate-event-based-video-streaming-at-scale/) | AWS Blog |
+
+
 ## 🔬 Current Interests
 
 • multi-agent architectures
-• LLM evaluation
+• LLM evaluation and benchmarking
 • AI developer tooling
 • MCP ecosystem
 • AI system observability
