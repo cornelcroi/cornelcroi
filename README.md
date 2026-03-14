@@ -72,7 +72,7 @@ Open-source CLI to deploy fast and secure frontends using Amazon CloudFront.
 ---
 
 ### 🍽️ Food Analyzer App
-GenAI-based nutritional web app for analyzing shopping and cooking recipes.
+GenAI-based nutritional web app for analyzing shopping and cooking recipes. Built during an AWS hackathon, then demoed at AWS Summits worldwide as a showcase for GenAI capabilities.
 - **Role:** Co-Creator
 - **Links:** [GitHub](https://github.com/aws-samples/serverless-genai-food-analyzer-app)
 
