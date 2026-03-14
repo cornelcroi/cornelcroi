@@ -2,11 +2,12 @@
 
 | Project | Description |
 |-------|-------------|
-| 🤖 **[Agent Squad](https://github.com/awslabs/agent-squad)** | Multi-agent orchestration framework for building complex AI systems (**7k⭐**) |
-| 🧩 **[Context Lens](https://github.com/cornelcroi/context-lens)** | MCP server enabling LLMs to search local files and GitHub repositories |
-| 📊 **[Data Lens](https://github.com/cornelcroi/data-lens)** | Ask questions about spreadsheets in natural language using DuckDB + LLMs |
-| 🤖 **[Ask James](https://github.com/cornelcroi/ask-james)** | MCP server to get a second opinion from another LLM |
+| 🤖 **[Agent Squad](https://github.com/awslabs/agent-squad)** | Multi-agent orchestration framework for building complex **LLM-powered AI systems** (**7k⭐**) |
+| 🧩 **[Context Lens](https://github.com/cornelcroi/context-lens)** | MCP server enabling **AI assistants to search local files and GitHub repositories** |
+| 📊 **[Data Lens](https://github.com/cornelcroi/data-lens)** | Ask questions about spreadsheets using **natural language and LLM reasoning** |
+| 🤖 **[Ask James](https://github.com/cornelcroi/ask-james)** | Tool for querying **multiple LLMs for second-opinion reasoning** |
 
+---
 
 ## 🚀 About Me
 
@@ -24,6 +25,8 @@ My work focuses on:
 Author or co-author of several open-source projects including **Agent Squad (7k⭐)**.
 
 Previously published on the AWS Blog and community.aws.
+
+Always building tools that make AI systems easier to design, test, and operate.
 
 
 ## 🤖 AI Systems & Tools
