@@ -7,6 +7,7 @@
 | 📊 **[Data Lens](https://github.com/cornelcroi/data-lens)** | Ask questions about spreadsheets using **natural language and LLM reasoning** |
 | 🤖 **[Ask James](https://github.com/cornelcroi/ask-james)** | Tool for querying **multiple LLMs for second-opinion reasoning** |
 | 🌍 **[Street Lens](https://streetlensapp.com)** | AI-powered travel platform generating **audio guides from LLM pipelines** |
+| 🧳 **[Back From My Trip](https://www.backfrommytrip.com)** | Travel community for **honest trip reports** — no stars, one question: **would I go back?** |
 
 ---
 
@@ -58,6 +59,18 @@ AI-powered travel discovery platform generating audio guides for places around y
 • In production: [streetlensapp.com](https://streetlensapp.com) | [App Store](https://apps.apple.com/app/id6756893250)
 
 Role: Co-Founder
+
+---
+
+### 🧳 Back From My Trip
+
+Travel community where real travellers write trip reports that end with one honest question: would I go back?
+
+• No star ratings — an honest verdict system instead
+• LLM-assisted pipeline for moderation, place extraction and photo verification — AI assists, never invents
+• In production: [backfrommytrip.com](https://www.backfrommytrip.com)
+
+Role: Founder
 
 ---
 
