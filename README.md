@@ -31,7 +31,34 @@ Previously published on the AWS Blog and community.aws.
 Always building tools that make AI systems easier to design, test, and operate.
 
 
-## 🤖 AI Systems & Tools
+## 🚀 Live Products
+
+Two travel products covering the two halves of a trip: StreetLens while you're there, Back From My Trip once you're back.
+
+### 🌍 Street Lens — during the trip
+
+Audio guides for the places around you — walk, listen, discover.
+
+• GenAI pipeline transforming structured place data into narrative audio guides
+• Scalable AI-generated content architecture
+• In production: [streetlensapp.com](https://streetlensapp.com) | [App Store](https://apps.apple.com/app/id6756893250)
+
+Role: Co-Founder
+
+---
+
+### 🧳 Back From My Trip — after the trip
+
+Travel community where real travellers write trip reports that end with one honest question: would I go back?
+
+• No star ratings — an honest verdict system instead
+• LLM-assisted pipeline for moderation, place extraction and photo verification — AI assists, never invents
+• In production: [backfrommytrip.com](https://www.backfrommytrip.com)
+
+Role: Founder
+
+
+## 🤖 Open Source AI Tools
 
 ### 🤖 Agent Squad (7k⭐)
 
@@ -47,30 +74,6 @@ Links:
 • [GitHub](https://github.com/awslabs/agent-squad)
 • [NPM](https://www.npmjs.com/package/agent-squad)
 • [PyPI](https://pypi.org/project/agent-squad/)
-
----
-
-### 🌍 Street Lens
-
-AI-powered travel discovery platform generating audio guides for places around you.
-
-• GenAI pipeline transforming structured place data into narrative audio guides
-• Scalable AI-generated content architecture
-• In production: [streetlensapp.com](https://streetlensapp.com) | [App Store](https://apps.apple.com/app/id6756893250)
-
-Role: Co-Founder
-
----
-
-### 🧳 Back From My Trip
-
-Travel community where real travellers write trip reports that end with one honest question: would I go back?
-
-• No star ratings — an honest verdict system instead
-• LLM-assisted pipeline for moderation, place extraction and photo verification — AI assists, never invents
-• In production: [backfrommytrip.com](https://www.backfrommytrip.com)
-
-Role: Founder
 
 ---
 
