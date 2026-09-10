@@ -1,156 +1,60 @@
-## ⭐ Project Highlights
+**20+ years of shipping software. The last few, shipping with AI.**
 
-| Project | Description |
-|-------|-------------|
-| 🤖 **[Agent Squad](https://github.com/awslabs/agent-squad)** | Multi-agent orchestration framework for building complex **LLM-powered AI systems** (**7k⭐**) |
-| 🧩 **[Context Lens](https://github.com/cornelcroi/context-lens)** | MCP server enabling **AI assistants to search local files and GitHub repositories** |
-| 📊 **[Data Lens](https://github.com/cornelcroi/data-lens)** | Ask questions about spreadsheets using **natural language and LLM reasoning** |
-| 🤖 **[Ask James](https://github.com/cornelcroi/ask-james)** | Tool for querying **multiple LLMs for second-opinion reasoning** |
-| 🌍 **[Street Lens](https://streetlensapp.com)** | AI-powered travel platform generating **audio guides from LLM pipelines** |
-| 🧳 **[Back From My Trip](https://www.backfrommytrip.com)** | Travel community for **honest trip reports** — no stars, one question: **would I go back?** |
+7 years at AWS as a Solutions Architect, building GenAI prototypes with customers across EMEA from the early days of LLMs, when Claude 3 was the new model. Now Staff GenAI Solutions Architect at Betclic and co-founder of two travel products in production. Along the way: a 7k-star agent orchestration framework and a family of MCP servers.
 
----
+A few years of building with LLMs taught me three things. Most problems still want a query, a rule or a cron job, not a prompt. When a model does belong, the pattern matters more than the prompt: an agent that sees the data but never writes the reply, a pipeline that extracts facts before it narrates, a second model as reviewer instead of author. And a model is a fast pair of hands, not an architect. It writes code, docs and tests under my direction, and nothing I can't explain gets shipped.
 
-## 🚀 About Me
-
-I build AI systems and developer tools powered by large language models.
-
-Staff GenAI Solutions Architect at Betclic and former AWS architect working on GenAI prototypes across EMEA.
-
-My work focuses on:
-
-• multi-agent systems
-• LLM developer tooling
-• MCP servers for AI assistants
-• serverless AI architectures
-
-Author or co-author of several open-source projects including **Agent Squad (7k⭐)**.
-
-Previously published on the AWS Blog and community.aws.
-
-Always building tools that make AI systems easier to design, test, and operate.
-
+I keep trying new patterns and write up the ones that hold: the [librarian pattern](https://dev.to/cornelcroi/the-librarian-pattern-how-i-keep-my-ai-coding-assistant-from-breaking-my-app-5396), which keeps an AI coding assistant from breaking my app, and [place extraction](https://dev.to/cornelcroi/you-just-write-the-places-find-themselves-2f2a), where the model reads and never invents. Latest experiment: on-device agent orchestration in Swift.
 
 ## 🚀 Live Products
 
-Two travel products covering the two halves of a trip: StreetLens while you're there, Back From My Trip once you're back.
+Two travel products for the two halves of a trip: StreetLens while you're there, Back From My Trip once you're back.
 
-### 🌍 Street Lens — during the trip
+| Product | What it does | Role |
+|---------|--------------|------|
+| 🌍 **[StreetLens](https://streetlensapp.com)** | Hear the story of the places around you, in your language. 6 cities, 8 languages, GPS-triggered narration. No account, no ads, pay per place. Every story is written by an LLM pipeline from extracted, source-tagged facts, validated against them, repaired or dropped. A new city in days. [streetlensapp.com](https://streetlensapp.com) · [App Store](https://apps.apple.com/app/id6756893250) | Co-founder |
+| 🧳 **[Back From My Trip](https://www.backfrommytrip.com)** | Travel community where real travellers write trip reports that end with one honest question: would I go back? No star ratings. Behind the scenes an LLM pipeline moderates reports, extracts the places you mention and verifies photos. AI assists, never invents. [backfrommytrip.com](https://www.backfrommytrip.com) | Co-founder |
 
-Audio guides for the places around you — walk, listen, discover.
+## 🤖 Open Source
 
-• GenAI pipeline transforming structured place data into narrative audio guides
-• Scalable AI-generated content architecture
-• In production: [streetlensapp.com](https://streetlensapp.com) | [App Store](https://apps.apple.com/app/id6756893250)
+| Project | What it is | Role |
+|---------|------------|------|
+| 🧠 **[Agent Squad](https://github.com/2fastlabs/agent-squad)** | Lightweight multi-agent orchestration framework. Python, TypeScript and Swift. Includes [GroundedAgent](https://2fastlabs.github.io/agent-squad/agents/built-in/grounded-agent): the agent that calls the tools never writes the reply. 7k⭐, formerly at AWS Labs. [NPM](https://www.npmjs.com/package/agent-squad) · [PyPI](https://pypi.org/project/agent-squad/) | Co-author |
+| 🧩 **[Context Lens](https://github.com/cornelcroi/context-lens)** | MCP server for semantic search over local files and GitHub repositories. Think of it as SQLite for AI embeddings. | Author |
+| 📊 **[Data Lens](https://github.com/cornelcroi/data-lens)** | MCP server to ask questions about spreadsheets in plain English. Excel, CSV, Parquet, powered by DuckDB. | Author |
+| 🗣️ **[Ask James](https://github.com/cornelcroi/ask-james)** | MCP server that gets a second opinion from another LLM inside your assistant. | Author |
+| ☁️ **[CloudFront Hosting Toolkit](https://github.com/awslabs/cloudfront-hosting-toolkit)** | CLI to deploy fast and secure frontends on Amazon CloudFront. [NPM](https://www.npmjs.com/package/@aws/cloudfront-hosting-toolkit) | Main maintainer |
 
-Role: Co-Founder
+## ✍️ Writing
 
----
-
-### 🧳 Back From My Trip — after the trip
-
-Travel community where real travellers write trip reports that end with one honest question: would I go back?
-
-• No star ratings — an honest verdict system instead
-• LLM-assisted pipeline for moderation, place extraction and photo verification — AI assists, never invents
-• In production: [backfrommytrip.com](https://www.backfrommytrip.com)
-
-Role: Founder
-
-
-## 🤖 Open Source AI Tools
-
-### 🤖 Agent Squad (7k⭐)
-
-Multi-agent orchestration framework for building complex LLM-powered AI systems.
-
-• **7k+ stars – #5 most popular AWS Labs project**
-• Supports Python and TypeScript
-• Used to coordinate specialized AI agents
-
-Role: Co-author
-
-Links:
-• [GitHub](https://github.com/awslabs/agent-squad)
-• [NPM](https://www.npmjs.com/package/agent-squad)
-• [PyPI](https://pypi.org/project/agent-squad/)
-
----
-
-### 🧩 MCP Servers for AI Assistants
-
-Tools enabling AI assistants to interact with real-world data.
-
-• **Context Lens** – semantic search over local files and GitHub repositories
-  https://github.com/cornelcroi/context-lens
-
-• **Ask James** – get a second opinion from another LLM inside your assistant
-  https://github.com/cornelcroi/ask-james
-
-• **Data Lens** – query spreadsheets using natural language (Excel, CSV, Parquet) powered by DuckDB
-  https://github.com/cornelcroi/data-lens
-
-
-## ☁️ Infrastructure & Systems
-
-### 🚀 CloudFront Hosting Toolkit
-Open-source CLI to deploy fast and secure frontends using Amazon CloudFront.
-- **Role:** Main maintainer
-- **Links:** [GitHub](https://github.com/awslabs/cloudfront-hosting-toolkit) | [NPM](https://www.npmjs.com/package/@aws/cloudfront-hosting-toolkit)
-
----
-
-### 🍽️ Food Analyzer App
-GenAI-based nutritional web app for analyzing shopping and cooking recipes. Built during an AWS hackathon, then demoed at AWS Summits worldwide as a showcase for GenAI capabilities.
-- **Role:** Co-Creator
-- **Links:** [GitHub](https://github.com/aws-samples/serverless-genai-food-analyzer-app)
-
----
-
-### 🔀 A/B Testing at the Edge for E-commerce
-A/B testing at the edge using Amazon CloudFront for personalized content at scale.
-- **Role:** Owner & Maintainer
-- **Links:** [GitHub](https://github.com/aws-samples/ab-testing-at-edge)
-
----
-
-### 🔒 Secure Media Delivery at the Edge
-Solution for protecting premium video content delivered through Amazon CloudFront. Now maintained by the **AWS Solutions team**.
-- **Role:** Creator (sole coder within a team)
-- **Links:** [GitHub](https://github.com/aws-solutions/secure-media-delivery-at-the-edge-on-aws)
-
-
-## ✍️ Technical Writing
-
-| Date         | Title                                                                                                           | Platform |
-|--------------|-----------------------------------------------------------------------------------------------------------------|----------|
-| 12 NOV 2025  | [Context-Lens: A Serverless, Open-Source MCP Server for AI Document Understanding](https://medium.com/@cornelcroi/how-i-built-context-lens-a-serverless-open-source-mcp-server-for-ai-document-understanding-ca375557a8fb) | Blog |
-| 28 NOV 2024  | [Unlock Bedrock InvokeInlineAgent API's Hidden Potential with Multi-Agent Orchestrator](https://community.aws/content/2pTsHrYPqvAbJBl9ht1XxPOSPjR/unlock-bedrock-invokeinlineagent-api-s-hidden-potential-with-multi-agent-orchestrator) | Blog |
-| 12 SEPT 2024 | [Beyond Auto-Replies: Building an AI-Powered E-commerce Support System](https://community.aws/content/2lq6cYYwTYGc7S3Zmz28xZoQNQj/beyond-auto-replies-building-an-ai-powered-e-commerce-support-system) | Blog |
+| Date         | Title | Platform |
+|--------------|-------|----------|
+| 07 SEP 2026  | [You just write. The places find themselves.](https://dev.to/cornelcroi/you-just-write-the-places-find-themselves-2f2a) | dev.to |
+| 26 AUG 2026  | [The Librarian Pattern: How I Keep My AI Coding Assistant from Breaking My App](https://dev.to/cornelcroi/the-librarian-pattern-how-i-keep-my-ai-coding-assistant-from-breaking-my-app-5396) | dev.to |
+| 12 NOV 2025  | [Context-Lens: A Serverless, Open-Source MCP Server for AI Document Understanding](https://medium.com/@cornelcroi/how-i-built-context-lens-a-serverless-open-source-mcp-server-for-ai-document-understanding-ca375557a8fb) | Medium |
+| 28 NOV 2024  | [Unlock Bedrock InvokeInlineAgent API's Hidden Potential with Multi-Agent Orchestrator](https://community.aws/content/2pTsHrYPqvAbJBl9ht1XxPOSPjR/unlock-bedrock-invokeinlineagent-api-s-hidden-potential-with-multi-agent-orchestrator) | community.aws |
+| 12 SEP 2024  | [Beyond Auto-Replies: Building an AI-Powered E-commerce Support System](https://community.aws/content/2lq6cYYwTYGc7S3Zmz28xZoQNQj/beyond-auto-replies-building-an-ai-powered-e-commerce-support-system) | community.aws |
 | 04 JUN 2024  | [Introducing CloudFront Hosting Toolkit](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-hosting-toolkit/) | AWS Blog |
 | 10 JAN 2023  | [How DAZN Uses AWS Step Functions to Orchestrate Event-Based Video Streaming at Scale](https://aws.amazon.com/blogs/media/how-dazn-uses-aws-step-functions-to-orchestrate-event-based-video-streaming-at-scale/) | AWS Blog |
 
+<details>
+<summary>☁️ Earlier work at AWS</summary>
 
-## 🔬 Current Interests
+<br>
 
-• multi-agent architectures
-• LLM evaluation and benchmarking
-• AI developer tooling
-• MCP ecosystem
-• AI system observability
+- **[Food Analyzer App](https://github.com/aws-samples/serverless-genai-food-analyzer-app)** — GenAI nutrition app for shopping and recipes. Built at an AWS hackathon, demoed at AWS Summits worldwide. Co-creator.
+- **[A/B Testing at the Edge](https://github.com/aws-samples/ab-testing-at-edge)** — A/B testing on Amazon CloudFront for personalized content at scale. Owner and maintainer. [Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/e507820e-bd46-421f-b417-107cd608a3b2/en-US)
+- **[Secure Media Delivery at the Edge](https://github.com/aws-solutions/secure-media-delivery-at-the-edge-on-aws)** — Protects premium video delivered through CloudFront. Sole coder, now maintained by the AWS Solutions team.
+- **[Scaling cost effective architectures](https://catalog.us-east-1.prod.workshops.aws/workshops/f238037c-8f0b-446e-9c15-ebcc4908901a/en-US)** — Workshop.
 
-
-## 🎓 Workshops
-
-1. 🔬 [A/B testing at the edge](https://catalog.us-east-1.prod.workshops.aws/workshops/e507820e-bd46-421f-b417-107cd608a3b2/en-US)
-2. 💰 [Scaling cost effective architectures](https://catalog.us-east-1.prod.workshops.aws/workshops/f238037c-8f0b-446e-9c15-ebcc4908901a/en-US)
+</details>
 
 ---
 
 <p align="center">
   <i>Always building.</i>
   <br>
-  <i>If you're working on interesting AI systems or developer tools, feel free to reach out.</i>
+  <i>If you're solving a real problem with AI and less code, reach out.</i>
   <br><br>
   <a href="https://www.linkedin.com/in/corneliucroitoru" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
