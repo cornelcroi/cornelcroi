@@ -27,7 +27,7 @@ Two travel products for the two halves of a trip: StreetLens while you're there,
 
 ## ✍️ Writing
 
-Every article, grouped by project, plus my talks and older AWS posts: **[CorneliuCroitoru.com/writing](https://corneliucroitoru.com/writing/)**. Each one is something I built, with what failed first and the real numbers.
+Every article, grouped by project, plus my older AWS posts: **[CorneliuCroitoru.com/writing](https://corneliucroitoru.com/writing/)**. Each one is something I built, with what failed first and the real numbers.
 
 - **[The Search Grammar Pattern: Natural Language Search with LLMs](https://corneliucroitoru.com/writing/search-grammar-pattern/)**: one small LLM call per search, over a catalog the model has never seen. Built for my own movie app at home.
 - **Building Back From My Trip**, a series: how an LLM pipeline moderates, extracts and verifies a travel community, and never writes a word. It starts with [the librarian pattern](https://corneliucroitoru.com/writing/librarian-pattern/).
