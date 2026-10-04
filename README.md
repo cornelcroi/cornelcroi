@@ -27,16 +27,10 @@ Two travel products for the two halves of a trip: StreetLens while you're there,
 
 ## ✍️ Writing
 
-| Date         | Title | Platform |
-|--------------|-------|----------|
-| 04 OCT 2026  | [The Search Grammar Pattern: Natural Language Search with LLMs](https://corneliucroitoru.com/writing/search-grammar-pattern/) | CorneliuCroitoru.com |
-| 07 SEP 2026  | [You just write. The places find themselves.](https://corneliucroitoru.com/writing/places-find-themselves/) | CorneliuCroitoru.com |
-| 26 AUG 2026  | [The Librarian Pattern: How I Keep My AI Coding Assistant from Breaking My App](https://corneliucroitoru.com/writing/librarian-pattern/) | CorneliuCroitoru.com |
-| 12 NOV 2025  | [Context-Lens: A Serverless, Open-Source MCP Server for AI Document Understanding](https://medium.com/@cornelcroi/how-i-built-context-lens-a-serverless-open-source-mcp-server-for-ai-document-understanding-ca375557a8fb) | Medium |
-| 28 NOV 2024  | [Unlock Bedrock InvokeInlineAgent API's Hidden Potential with Multi-Agent Orchestrator](https://community.aws/content/2pTsHrYPqvAbJBl9ht1XxPOSPjR/unlock-bedrock-invokeinlineagent-api-s-hidden-potential-with-multi-agent-orchestrator) | community.aws |
-| 12 SEP 2024  | [Beyond Auto-Replies: Building an AI-Powered E-commerce Support System](https://community.aws/content/2lq6cYYwTYGc7S3Zmz28xZoQNQj/beyond-auto-replies-building-an-ai-powered-e-commerce-support-system) | community.aws |
-| 04 JUN 2024  | [Introducing CloudFront Hosting Toolkit](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-hosting-toolkit/) | AWS Blog |
-| 10 JAN 2023  | [How DAZN Uses AWS Step Functions to Orchestrate Event-Based Video Streaming at Scale](https://aws.amazon.com/blogs/media/how-dazn-uses-aws-step-functions-to-orchestrate-event-based-video-streaming-at-scale/) | AWS Blog |
+Every article, grouped by project, plus my talks and older AWS posts: **[CorneliuCroitoru.com/writing](https://corneliucroitoru.com/writing/)**. Each one is something I built, with what failed first and the real numbers.
+
+- **[The Search Grammar Pattern: Natural Language Search with LLMs](https://corneliucroitoru.com/writing/search-grammar-pattern/)**: one small LLM call per search, over a catalog the model has never seen. Built for my own movie app at home.
+- **Building Back From My Trip**, a series: how an LLM pipeline moderates, extracts and verifies a travel community, and never writes a word. It starts with [the librarian pattern](https://corneliucroitoru.com/writing/librarian-pattern/).
 
 <details>
 <summary>☁️ Earlier work at AWS</summary>
