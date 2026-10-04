@@ -4,7 +4,7 @@
 
 A few years of building with LLMs taught me three things. Most problems still want a query, a rule or a cron job, not a prompt. When a model does belong, the pattern matters more than the prompt: an agent that sees the data but never writes the reply, a pipeline that extracts facts before it narrates, a second model as reviewer instead of author. And a model is a fast pair of hands, not an architect. It writes code, docs and tests under my direction, and nothing I can't explain gets shipped.
 
-I keep trying new patterns and write up the ones that hold: the [librarian pattern](https://dev.to/cornelcroi/the-librarian-pattern-how-i-keep-my-ai-coding-assistant-from-breaking-my-app-5396), which keeps an AI coding assistant from breaking my app, and [place extraction](https://dev.to/cornelcroi/you-just-write-the-places-find-themselves-2f2a), where the model reads and never invents. Latest experiment: on-device agent orchestration in Swift.
+I keep trying new patterns and write up the ones that hold: the [librarian pattern](https://corneliucroitoru.com/writing/librarian-pattern/), which keeps an AI coding assistant from breaking my app, and [place extraction](https://corneliucroitoru.com/writing/places-find-themselves/), where the model reads and never invents, and the [search grammar pattern](https://corneliucroitoru.com/writing/search-grammar-pattern/), natural language search with one small LLM call. All my writing, projects and CV: **[CorneliuCroitoru.com](https://corneliucroitoru.com)**.
 
 ## 🚀 Live Products
 
@@ -29,8 +29,9 @@ Two travel products for the two halves of a trip: StreetLens while you're there,
 
 | Date         | Title | Platform |
 |--------------|-------|----------|
-| 07 SEP 2026  | [You just write. The places find themselves.](https://dev.to/cornelcroi/you-just-write-the-places-find-themselves-2f2a) | dev.to |
-| 26 AUG 2026  | [The Librarian Pattern: How I Keep My AI Coding Assistant from Breaking My App](https://dev.to/cornelcroi/the-librarian-pattern-how-i-keep-my-ai-coding-assistant-from-breaking-my-app-5396) | dev.to |
+| 04 OCT 2026  | [The Search Grammar Pattern: Natural Language Search with LLMs](https://corneliucroitoru.com/writing/search-grammar-pattern/) | CorneliuCroitoru.com |
+| 07 SEP 2026  | [You just write. The places find themselves.](https://corneliucroitoru.com/writing/places-find-themselves/) | CorneliuCroitoru.com |
+| 26 AUG 2026  | [The Librarian Pattern: How I Keep My AI Coding Assistant from Breaking My App](https://corneliucroitoru.com/writing/librarian-pattern/) | CorneliuCroitoru.com |
 | 12 NOV 2025  | [Context-Lens: A Serverless, Open-Source MCP Server for AI Document Understanding](https://medium.com/@cornelcroi/how-i-built-context-lens-a-serverless-open-source-mcp-server-for-ai-document-understanding-ca375557a8fb) | Medium |
 | 28 NOV 2024  | [Unlock Bedrock InvokeInlineAgent API's Hidden Potential with Multi-Agent Orchestrator](https://community.aws/content/2pTsHrYPqvAbJBl9ht1XxPOSPjR/unlock-bedrock-invokeinlineagent-api-s-hidden-potential-with-multi-agent-orchestrator) | community.aws |
 | 12 SEP 2024  | [Beyond Auto-Replies: Building an AI-Powered E-commerce Support System](https://community.aws/content/2lq6cYYwTYGc7S3Zmz28xZoQNQj/beyond-auto-replies-building-an-ai-powered-e-commerce-support-system) | community.aws |
@@ -56,5 +57,6 @@ Two travel products for the two halves of a trip: StreetLens while you're there,
   <br>
   <i>If you're solving a real problem with AI and less code, reach out.</i>
   <br><br>
+  <a href="https://corneliucroitoru.com" target="_blank"><img src="https://img.shields.io/badge/-CorneliuCroitoru.com-0f141b?style=flat-square&logoColor=white" alt="CorneliuCroitoru.com"></a>
   <a href="https://www.linkedin.com/in/corneliucroitoru" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
